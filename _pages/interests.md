@@ -12,7 +12,7 @@ Although black holes dominate my scientific interests, I enjoy many things, acad
 
 Science Policy
 ===
-I've been interested in science policy almost as long as I have been interested in astronomy. While curiousity alone is reason enough to study black holes, I have always felt that my work lacked the potential to do true good for humanity beyond provide inspiration. Working in science policy seems to be a way that I can apply my love and knowledge of science to topics that may have a greater impact on humanity, such as nuclear nonproliferation and clean energy, among others.
+I've been interested in science policy almost as long as I have been interested in astronomy. While curiosity alone is reason enough to study black holes, I have always felt that my work lacked the potential to do true good for humanity beyond provide inspiration. Working in science policy seems to be a way that I can apply my love and knowledge of science to topics that may have a greater impact on humanity, such as nuclear nonproliferation and clean energy, among others.
 
 <p>
     <img src="/images/capitol.jpg" alt>
@@ -26,7 +26,7 @@ Silly Looking Animals
 Among my greatest joys in life are the existence of creatures that baffle me. I often wonder how evolution created such silly animals, including some of those that I have encountered below!
 
 <p>
-    <img src="/images/puffer.jpg"" alt>
+    <img src="/images/puffer.jpg" alt>
     <img src="/images/tamarin.jpg" alt>
     <img src="/images/hippo.jpg" alt>
 <p>
