@@ -12,7 +12,7 @@ Although black holes dominate my scientific interests, I enjoy many things, acad
 
 Science Policy
 ---
-I've been interested in science policy almost as long as I have been interested in astronomy. While curiosity alone is reason enough to study black holes, I have always felt that my work lacked the potential to do true good for humanity beyond feeding that curiosity. Working in science policy seems to be a way that I can apply my love and knowledge of science to topics that may have a greater impact on humanity, such as nuclear nonproliferation and clean energy, among others.
+I've been interested in science policy almost as long as I have been interested in astronomy. Working in the field seems to be a way that I can apply my love and knowledge of science to topics that may impact humanity beyond fostering our curiosity, such as nuclear nonproliferation and clean energy, among others.
 
 <p>
     <img src="/images/capitol.jpg" alt>
@@ -20,6 +20,7 @@ I've been interested in science policy almost as long as I have been interested 
 </p>
 
 In Summer 2022, I worked as an AIP Mather Public Policy intern in the Office of Representative Bill Foster - a physicist himself! Working on Capitol Hill was a wonderful experience, and I see myself returning someday. For the time being, I plan on obtaining a certificate or master's degree in public policy during my time at Georgia Tech and am always looking for new opportunities to get involved in science policy.
+
 
 Silly Looking Animals
 ---
@@ -31,8 +32,7 @@ Among my greatest joys in life is the existence of creatures that baffle me. I o
     <img src="/images/hippo.jpg" alt>
 <p>
 
-More images to come!
- 
+
 Plants
 ---
 I have made it my goal to live in an urban jungle and am well on my way to succeeding. I love plants, and hope to travel to see the houseplants that I love in their native environments. While working in DC, I had the chance to visit the U.S. Botanic Garden and see its corpse flower in full bloom, pictured below.
@@ -43,7 +43,8 @@ I have made it my goal to live in an urban jungle and am well on my way to succe
 </p>
 
 The flower was indeed very stinky.
- 
+
+
 Astrophotography
 ---
 Since I was able to get my hands on a decent DSLR, I have done some astrophotography, mostly from my yard, but also from the Grand Canyon during a family vacation there in 2017. I was able to capture the Milky Way, both on camera and with my naked eye; it was quite an awe-inspiring experience.
@@ -53,7 +54,6 @@ Since I was able to get my hands on a decent DSLR, I have done some astrophotogr
     <em>A photo of the Milky Way that I took with my Canon Rebel at the Grand Canyon during their star party week in Summer 2017.</em>
 </p>
 
-More images to come!
  
 Art
 ---
