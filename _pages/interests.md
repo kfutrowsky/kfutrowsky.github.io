@@ -15,7 +15,6 @@ I've been interested in science policy almost as long as I have been interested 
 
 <p>
     <img src="/images/capitol.jpg" alt="Katie in front of the U.S. Capitol building" style="width:600px;height:400px;">
-  
     <em>Posing in front of the Capitol dome during my Summer 2022 internship.</em>
 </p>
 
