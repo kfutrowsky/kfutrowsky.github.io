@@ -23,7 +23,7 @@ In Summer 2022, I worked as an AIP Mather Public Policy intern in the Office of 
 
 Silly Looking Animals
 ===
-Among my greatest joys in life are the existence of creatures that baffle me. I often wonder how evolution created such silly animals, including some I have encountered pictured below!
+Among my greatest joys in life is the existence of creatures that baffle me. I often wonder how evolution created such silly animals, including some I have encountered pictured below!
 
 <p>
     <img src="/images/puffer.jpg" alt>
