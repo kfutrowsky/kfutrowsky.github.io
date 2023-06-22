@@ -3,7 +3,7 @@ title: "Georgia Tech"
 collection: teaching
 permalink: /teaching/gatech
 type: "Undergraduate"
-date: 2023-06-21
+date: 2022-08-18
 venue: "Georgia Institute of Technology, School of Physics"
 location: "Atlanta, Georgia"
 ---
