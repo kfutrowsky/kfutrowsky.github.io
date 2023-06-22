@@ -12,7 +12,7 @@ Although black holes dominate my scientific interests, I enjoy many things, acad
 
 Science Policy
 ===
-I've been interested in science policy almost as long as I have been interested in astronomy. While curiosity alone is reason enough to study black holes, I have always felt that my work lacked the potential to do true good for humanity beyond provide inspiration. Working in science policy seems to be a way that I can apply my love and knowledge of science to topics that may have a greater impact on humanity, such as nuclear nonproliferation and clean energy, among others.
+I've been interested in science policy almost as long as I have been interested in astronomy. While curiosity alone is reason enough to study black holes, I have always felt that my work lacked the potential to do true good for humanity beyond feeding that curiosity. Working in science policy seems to be a way that I can apply my love and knowledge of science to topics that may have a greater impact on humanity, such as nuclear nonproliferation and clean energy, among others.
 
 <p>
     <img src="/images/capitol.jpg" alt>
@@ -23,7 +23,7 @@ In Summer 2022, I worked as an AIP Mather Public Policy intern in the Office of 
 
 Silly Looking Animals
 ===
-Among my greatest joys in life are the existence of creatures that baffle me. I often wonder how evolution created such silly animals, including some of those that I have encountered below!
+Among my greatest joys in life are the existence of creatures that baffle me. I often wonder how evolution created such silly animals, including some I have encountered pictured below!
 
 <p>
     <img src="/images/puffer.jpg" alt>
@@ -51,7 +51,7 @@ Since I was able to get my hands on a decent DSLR, I have done some astrophotogr
 
 Art
 ===
-Although I am mediocre (at best) at it, I love to make art using a bunch of different mediums. I painted my undergrad graduation cap (pictured below) to resemble Gargantua, the (as we now know from the EHT images, not too too accurate) supermassive black hole that stars in Interstellar. I enjoy many a paint-by-number and doodling.
+I love to make (sometimes half-ok) art using a bunch of different mediums. I painted my undergrad graduation cap (pictured below) to resemble Gargantua, the (as we now know from the EHT images, not too too accurate) supermassive black hole that stars in Interstellar. I enjoy many a paint-by-number and doodling.
 
 <p>
     <img src="/images/grad.jpg" alt>
