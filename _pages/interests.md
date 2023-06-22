@@ -7,22 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
 Although black holes dominate my scientific interests, I enjoy many things, academic and otherwise, too! This page describes just a few.
 
 ## Science Policy
 I've been interested in science policy almost as long as I have been interested in astronomy. Working in the field seems to be a way that I can apply my love and knowledge of science to topics that may impact humanity beyond fostering our curiosity, such as nuclear nonproliferation and clean energy, among others.
 
 <p>
-    <figure><img src="/images/capitol.jpg" alt="Katie in front of the U.S. Capitol building" style="width:600px;height:400px;">
-    <figcaption>Posing in front of the Capitol dome during my Summer 2022 internship.</figcaption></figure>
+    <figure>
+      <img src="/images/capitol.jpg" alt="Katie in front of the U.S. Capitol building" style="width:600px;height:400px;display:block;margin-left:auto;margin-right:auto;">
+      <figcaption>Posing in front of the Capitol dome during my Summer 2022 internship.</figcaption>
+    </figure>
 </p>
 
 In Summer 2022, I worked as an AIP Mather Public Policy intern in the Office of Representative Bill Foster - a physicist himself! Working on Capitol Hill was a wonderful experience, and I see myself returning someday. For the time being, I plan on obtaining a certificate or master's degree in public policy during my time at Georgia Tech and am always looking for new opportunities to get involved in science policy.
