@@ -28,7 +28,7 @@ Among my greatest joys in life is the existence of creatures that baffle me. I o
     <img src="/images/puffer.jpg" alt>
     <img src="/images/tamarin.jpg" alt>
     <img src="/images/hippo.jpg" alt>
-<p>
+</p>
 
 
 ## Plants
