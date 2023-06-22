@@ -3,7 +3,7 @@ title: "University of Maryland"
 collection: teaching
 permalink: /teaching/umd
 type: "Undergraduate"
-date: 2023-06-21
+date: 2022-01-27
 venue: "University of Maryland, College of Computer, Mathematical, and Natural Sciences"
 location: "College Park, Maryland"
 ---
