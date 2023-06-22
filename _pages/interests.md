@@ -52,7 +52,7 @@ Since I was able to get my hands on a decent DSLR, I have done some astrophotogr
 <p>
   <figure>
     <img src="/images/milkyway.jpg" alt="A photo of the Milky Way." style="width:600px;height:400px;display:block;margin-left:auto;margin-right:auto;">
-    <figcaption>A photo of the Milky Way that I took with my Canon Rebel at the Grand Canyon during their star party week in Summer 2017.</figcaption>/
+    <figcaption>A photo of the Milky Way that I took with my Canon Rebel at the Grand Canyon during their star party week in Summer 2017.</figcaption>
   </figure>
 </p>
  
