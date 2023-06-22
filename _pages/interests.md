@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
+  }
+</style>
+
+
 Although black holes dominate my scientific interests, I enjoy many things, academic and otherwise, too! This page describes just a few.
 
 ## Science Policy
