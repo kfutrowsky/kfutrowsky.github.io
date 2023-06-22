@@ -30,15 +30,19 @@ Among my greatest joys in life is the existence of creatures that baffle me. I o
     <img src="/images/tamarin.jpg" alt>
     <img src="/images/hippo.jpg" alt>
 <p>
+
+More images to come!
  
 Plants
 ---
-I have made it my goal to live in an urban jungle and am well on my way to succeeding. I love plants, and hope to travel to see the houseplants that I love in their native environments. While working in DC, I had the chance to visit the U.S. Botanic Garden and see its corpse flower in full bloom, pictured below. It was indeed very stinky.
+I have made it my goal to live in an urban jungle and am well on my way to succeeding. I love plants, and hope to travel to see the houseplants that I love in their native environments. While working in DC, I had the chance to visit the U.S. Botanic Garden and see its corpse flower in full bloom, pictured below.
 
 <p>
     <img src="/images/corpse_flower.jpg" alt>
     <em>A corpse flower in full bloom at the U.S. Botanic Garden.</em>
 </p>
+
+The flower was indeed very stinky.
  
 Astrophotography
 ---
@@ -48,6 +52,8 @@ Since I was able to get my hands on a decent DSLR, I have done some astrophotogr
     <img src="/images/milkyway.jpg" alt>
     <em>A photo of the Milky Way that I took with my Canon Rebel at the Grand Canyon during their star party week in Summer 2017.</em>
 </p>
+
+More images to come!
  
 Art
 ---
