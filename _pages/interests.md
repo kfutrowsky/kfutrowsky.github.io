@@ -70,6 +70,6 @@ I love to make (sometimes half-ok) art using a bunch of different mediums. I pai
 <p>
   <figure>
     <img src="/images/grad.jpg" alt="Katie in her graduation cap." style="width:600px;height:450px;display:block;margin-left:auto;margin-right:auto;">
-    <figcaption>Me, in my graduation gear, saying farewell to the University of Maryland Department of Astronomy.</figcaption>
+    <figcaption>Me, in my graduation gear, bidding farewell to the University of Maryland Department of Astronomy.</figcaption>
   </figure>
 </p>
