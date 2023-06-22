@@ -9,8 +9,8 @@ location: "College Park, Maryland"
 ---
 Undergraduate Teaching Assistantships
 
-| Semester, Year | Course Number | Course Title                     | Number of Students | Description                                                                |
-|----------------|---------------|----------------------------------|--------------------|----------------------------------------------------------------------------|
+| Semester, Year | Course Number | Course Title                                    | Number of Students | Description                                                                |
+|----------------|---------------|-------------------------------------------------|--------------------|----------------------------------------------------------------------------|
 | Spring, 2022   | ASTR 350      | Black Holes                      | 35                 | Medium lecture, algebra-based astronomy course for astronomy minors. |
 | Fall, 2021     | UNIV 100      | The Student in the University    | 8                  | Small lecture, orientation course for new undergraduate students.  |
 | Fall, 2021     | ASTR 310      | Observational Astronomy          | 30                 | Medium lecture, experimental observational astronomy course for astronomy majors. |
