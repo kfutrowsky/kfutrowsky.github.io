@@ -9,8 +9,9 @@ redirect_from:
 ---
 <style>
   figure figcaption {
-    border: 1px dotted blue;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
   }
 </style>
 
