@@ -57,10 +57,3 @@ Although I am mediocre (at best) at it, I love to make art using a bunch of diff
     <img src="/images/grad.jpg" alt>
     <em>Me, in my graduation gear, saying farewell to the University of Maryland Department of Astronomy.</em>
 </p>
-
-Here's a photo of a beautiful stained glass JWST piece that I encountered at the Space Telescope Science Institute:
-
-<p>
-    <img src="/images/webb.jpg" alt>
-</p>
- 
