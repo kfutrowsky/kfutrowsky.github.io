@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kate Futrowsky"
 title_separator          : "-"
 name                     : &name "Kate Futrowsky"
-description              : &description "Physics PhD Student at Georgia Tech"
+description              : &description "Physics PhD Candidate at Georgia Tech"
 url                      : https://kfutrowsky.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kfutrowsky/kfutrowsky.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kate Futrowsky"
-  avatar           : "another_headshot.jpg"
+  avatar           : "headshot_2024.jpeg"
   bio              : "Physics PhD Student at Georgia Tech"
   location         : "Atlanta, GA, USA"
   employer         :
