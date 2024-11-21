@@ -16,7 +16,7 @@ Education
 * Ph.D. in Physics, expected Summer 2027
   * Georgia Institute of Technology, Atlanta, GA
   * Advisor: Tamara Bogdanović
-* M.S. in Physics, expected Fall 2023
+* M.S. in Physics, 2024
   * Georgia Institute of Technology, Atlanta, GA
 * B.S. in Physics, B.S. in Astronomy (High Honors), 2022
   * University of Maryland, College Park, MD
@@ -36,7 +36,9 @@ Research Experience
    
 Teaching Experience
 =====
-* Graduate Teaching Assistant (August 2022 - December 2022)
+* High School Physics Tutor (April 2024 - Present)
+  * Atlanta, Georgia
+* Graduate Teaching Assistant (August 2022 - Present)
   * School of Physics, Georgia Institute of Technology
   * See [Georgia Tech Teaching Experience](https://kfutrowsky.github.io/_teaching/gatech.md)
 * Undergraduate Teaching Assistant (August 2020 - May 2022)
