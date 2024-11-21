@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV [Available here](https://kfutrowsky.github.io/files/Futrowsky_CV_June23.pdf)
+Full CV [Available here](https://kfutrowsky.github.io/files/Futrowsky_CV_November24.pdf)
 
 Education
 ======
